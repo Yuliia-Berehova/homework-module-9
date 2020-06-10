@@ -234,7 +234,7 @@ ol {
 }
 
 .partners-list__item-description {
-  font-weight: var(--secondary-font);
+  font-family: var(--secondary-font);
   font-weight: 300;
   color: #666666;
 }
